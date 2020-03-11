@@ -23,7 +23,7 @@ export default {
         { 
           title: "Self-Reliance",
           author: "Ralph Waldo Emerson",
-          finishedReading: false
+          finishedReading: true
         },
         { 
           title: "American Gods", 
